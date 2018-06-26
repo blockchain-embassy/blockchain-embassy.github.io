@@ -17,7 +17,7 @@ logo_small_devices: "media/logo/logo_small.png"
 navbar_links:
   - title: "Home"
     url: "#image-hero"
-  - title: "Mission"
+  - title: "Space"
     url: "#features"
   - title: "Work"
     url: "#services"
@@ -44,18 +44,21 @@ tagline:      	  "Permissionless Collaboration"
 # -------------------------
 
 features_thumbs:
-  - title: "Net + Work"
+  - title: "Co-Working"
     icon: "code"
     description: "The Embassy offers a unique co-working area, a meeting room, a meetup space and much more. Fixed desks and private offices are available for corporate members."
   - title: "IoT Hardware Lab"
     icon: "flask"
     description: "Our members have access to a Blockchain IoT Hardware Lab, with tools and equipment to prototype ideas and build solid products based on cutting-edge IoT hardware."
-  - title: "Ground Zero"
-    icon: "map-marker"
-    description: "The Blockchain Embassy is located in an original factory building in the heart of the Berlin Blockchain Epicenter at Paul Linke Ufer in Berlin Kreuzberg."
   - title: "Podcast Studio"
     icon: "mobile"
     description: "Make your voice heard with our pro-grade studio equipment, built for podcast live recording and production of high-quality audio and video."
+  - title: "Meeting Rooms"
+    icon: "expand"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Ground Zero"
+    icon: "map-marker"
+    description: "The Blockchain Embassy is located in an original factory building in the heart of the Berlin Blockchain Epicenter at Paul Linke Ufer in Berlin Kreuzberg."
   - title: "Impact-Driven"
     icon: "bolt"
     description: "All projects, entrepreneurs, researchers and community members work highly impact-driven, with a strong desire to connect the potential of blockchain with the reailities and needs of the here and now."
@@ -65,31 +68,28 @@ features_thumbs:
   - title: "Fully Digital"
     icon: "map-marker"
     description: "Management of Resources, booking of events and all communications are conventiently available through digital channels such as Telegram, Google Docs, Calendar and more."
-  - title: "Fullscreen Background"
-    icon: "expand"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
 
 # Blockquote
 # -------------------------
 
 blockquote: 
-   text: "We develop online marketing solutions that help enterprises accurately identify the consumers that truly need their services."
+   text: "Bridging the On-Chain with the Off-Chain."
    tagline: "Serving the community since 2014"
-   button_text: "Read More"
-   button_url: "#_"
+   button_text: "Say Hello"
+   button_url: "https://t.me/joinchat/AcpdWhLa14Le7z-JN2hUBA"
 
 # Services
 # -------------------------
 
 services:
- - title: "Front-End Development"
-   icon: "desktop"
+ - title: "Create"
+   icon: "code-fork"
    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."
- - title: "iOS Development"
-   icon: "apple"
+ - title: "Learn"
+   icon: "meetup"
    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."
- - title: "UI/UX Design"
-   icon: "magic"
+ - title: "Connect"
+   icon: "plug"
    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."      
 
 # Work Mosaic
