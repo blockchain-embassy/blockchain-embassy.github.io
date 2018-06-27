@@ -15,7 +15,7 @@ logo_small_devices: "media/logo/logo_small.png"
 # -------------------------
 
 navbar_links:
-  - title: "Home"
+  - title: "Sidsel"
     url: "#image-hero"
   - title: "Space"
     url: "#features"
